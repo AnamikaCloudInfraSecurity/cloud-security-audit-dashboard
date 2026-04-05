@@ -51,7 +51,10 @@ EventBridge → Lambda (Scheduled scans)
 ## 📊 Dashboard Preview
 
 ![Dashboard](docs/dashboard.png)
+---
+## Live Demo
 
+Cloudfront - https://dig0uirih7yz4.cloudfront.net
 ---
 
 ## ⚙️ Setup Instructions
